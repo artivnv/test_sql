@@ -3,7 +3,7 @@
 ![alt text](https://raw.githubusercontent.com/artivnv/test_sql/master/ER.png)
 
 
-# В файле test_DB.sql хранится созданная и заполненная тестовая база.
+#### В файле test_DB.sql хранится созданная и заполненная тестовая база.
 
 
 1.	Вывести список отделов с сотрудниками.
